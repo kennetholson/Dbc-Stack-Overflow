@@ -1,4 +1,5 @@
 # Team AJAX
+![](http://printablecouponsanddeals.com/wp-content/uploads/2015/06/ajax-dish-liquid-Printable-Coupon.jpg)
 
 ## Team Members
 
@@ -10,7 +11,7 @@
 
 ## MVP 0.5 
 
-In the interest of time and maximum efficiency, team AJAX elected to use snippets or design decision of several code bases from past challenges to create our initial skeleteon. We will be using code from Hacker News as our general layout, our take-home self assessment for user login and authentication, craigslist jr. for displaying resources specific to a particular user, comments interface for our jquery and our mock-self assessment for our ajax.
+In the interest of time and maximum efficiency, team ![](http://images-cdn.moviepilot.com/images/c_scale,h_1080,w_1920/t_mp_quality/mbwu3ekc99viisuad5a5/a-history-of-deadpool-who-are-all-these-side-characters-anyway-798627.jpg) elected to use snippets or design decision of several code bases from past challenges to create our initial skeleteon. We will be using code from Hacker News as our general layout, our take-home self assessment for user login and authentication, craigslist jr. for displaying resources specific to a particular user, comments interface for our jquery and our mock-self assessment for our ajax.
 
 ### User Stories 
 
@@ -22,7 +23,11 @@ In the interest of time and maximum efficiency, team AJAX elected to use snippet
 ### Votes 
 - upvotes
 - downvotes
-- absolute point value changes on screen with AJAX
+- absolute point value changes on screen with
+
+![](http://etc.usf.edu/presentations/extras/letters/varsity_letters/51/13/a-400.png)
+![](http://store.rebeccas.com/store/images/large/PZ376.jpg)
+
 ### Clicking on a question will display answers
 
 ## MVP 1.0 
