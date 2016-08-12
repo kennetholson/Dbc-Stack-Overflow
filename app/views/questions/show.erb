@@ -2,7 +2,14 @@
  <h1>DBC Stack Overflow</h1>
 </header>
 
-<form id="posts" method="post" action="/questions">
- <input type="text" name="title" placeholder="Question">
- <input type="submit" value="submit new post">
-</form>
+<h2><%= @question.title%><br></h2>
+<%= @question.content%>
+<% if @answers == nil%>
+<p>There are no answers to this question</p>
+<%else%>
+<ul>
+<% @answers.each do |answer| %>
+<li> <%=answer.content%> </li>
+<%end%>
+</ul>
+<%end%>
