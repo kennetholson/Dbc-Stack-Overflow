@@ -1,0 +1,12 @@
+
+<div class="container">
+ <h1> Login to DBC Stack Overflow </h1>
+ <% if @error %>
+   <%= @error %>
+ <% end %>
+ <form action="/sessions" method="post">
+   Username: <input type="text" name="username" placeholder="username"><br>
+   Password: <input type="password" name="password" placeholder="password"><br>
+   <input type="submit" value="Login">
+ </form>
+</div>

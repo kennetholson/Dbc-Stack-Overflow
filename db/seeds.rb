@@ -1,0 +1,23 @@
+Question.create(title: "Mr. Blue Sky", content: "Why is the sky blue?", user_id: 1)
+Question.create(title:"Crazy Game of Thrones Fan Theory", content: "Ok you guys here me out. What if the events of game of thrones were started by Bran using his new time traveling abilities to go back in time and try to warn King Aerys about the 
+bad shit to come? King Aerys keeps hearing voices in his head, which makes him go crazy, orders Lord Stark and Brandon Stark to King's landing, roasts him alive, thus prompting
+Robert's rebellion.", user_id: 2)
+Question.create(title: "Riddle", content: "How many wood chuck chucks could a wood chuck chuck if a wood chuck could chuck wood?", user_id: 3)
+Question.create(title: "PLEASE HELP MY ANIMAL MIGHT BE DYING", content: "My dog was locked in a room for 6 days by accident while we were on vacation. Is he okay?", user_id: 4)
+Question.create(title: "I'm Going to Get you sucker!", content: "How can I find out who's stealing my lunch from the kitchen refrigerator everyday?", user_id: 5)
+Question.create(title: "Politics", content: "Is Donald Trump wearing a toupee? I honestly can't tell. Please help me.", user_id: 6)
+Question.create(title: ":(", content: "I saw a homeless person holding up a Donald Trump 2016 sign the other day. Is he voting against his own interests?", user_id: 7)
+Question.create(title: "I want to start a startup", content: "How difficult is it to be a CEO?", user_id: 8)
+Question.create(title: "Silicon Valley Legend Might be a vampire", content: "Why does Bill Gates look so wrinkly? ", user_id: 9)
+Question.create(title: "Moving to Ireland. Legit question", content: "Why do Irish people have such sexy accents? ", user_id: 10)
+
+Answer.create(content: "The world is blue because it's inside the eye of a giant.", user_id: 1, question_id: 1)
+Answer.create(content: "Oh my god that would be amazing. But deeply disturbing as well. Although this is highly unlikely as the reason for King Aery's madness. The Targeryans have a history of insanity due to many generations of inbreeding. In fact there's an old saying. Every time a Targeryan is born, the gods flip a coin to determine if they are mad.", user_id: 2, question_id: 2)
+Answer.create(content: "49", user_id: 3, question_id: 3)
+Answer.create(content: "No. Call animal services immediately.", user_id: 4, question_id: 4)
+Answer.create(content: "Set up a motion sensor activated camera that turns on automatically when it detects motion in the kitchen.", user_id: 5, question_id: 5)
+Answer.create(content: "Probably.", user_id: 6, question_id: 6)
+Answer.create(content: "My guess is that the homeless person doesn't really care. He/she was probably just trying to get your atention.", user_id: 7, question_id: 7)
+Answer.create(content: "Extraordinarily. People like to think that as CEO, you get to just order everyone around and that people will do everything for you. WRONG. Before I sold my company, Aviato, I was working round the clock to keep us from burning through too much cash.", user_id: 8, question_id: 8)
+Answer.create(content: "Because he's getting dragged down to hell.", user_id: 9, question_id: 9)
+Answer.create(content: "Personally, I think Australians and Trinidadians have the sexiest accents.", user_id: 10, question_id: 10)
