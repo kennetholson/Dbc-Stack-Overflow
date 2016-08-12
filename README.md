@@ -43,3 +43,6 @@ For our 1.0, we want to implement as much AJAX as required for all the above tas
 ## MVP 1.5
 
 ### User Stories 
+
+![](http://ih0.redbubble.net/image.62525120.4468/sticker,375x360.u1.png)
+![](https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/JaxMKXRender.png/260px-JaxMKXRender.png)
